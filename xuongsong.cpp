@@ -4,7 +4,7 @@ void A(){
     cout<<"Duan lam nhanh A";
 }
 void B(){
-
+    cout<<"Tri lam nhanh B";
 }
 int main(){
     A();
