@@ -4,7 +4,7 @@ void A(){
 
 }
 void B(){
-
+    cout<<"Tri lam nhanh B";
 }
 int main(){
     A();
