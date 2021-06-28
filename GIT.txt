@@ -26,3 +26,4 @@
 25. git checkout HEAD~^2~2 (ket hop nhieu cai thanh 1 lan)
 26. git fetch + git merge = git pull
 27. git fakeTeamwork
+28. git fakeTeamwork foo 3 
