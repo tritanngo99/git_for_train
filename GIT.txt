@@ -27,3 +27,4 @@
 26. git fetch + git merge = git pull
 27. git fakeTeamwork
 28. git fakeTeamwork foo 3 
+29. git pull --rebase = fetch + rebase 
